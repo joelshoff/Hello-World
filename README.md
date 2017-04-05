@@ -1,2 +1,2 @@
 # Hello-World
-My name is Joel Shoffner and I love cookies
+My name is Joel and I love cookies
